@@ -1,4 +1,4 @@
-# Code for the Bachelor's thesis on the topic of: inimising brilliancy bias within GPT-2
+# Code for the Bachelor's thesis on the topic of: minimizing brilliancy bias within GPT-2
 by utilising the PALMS method
 
 An analysis of Brilliance Bias presence in GPT-2
